@@ -1,4 +1,5 @@
 # Linda Wu
+![this is me](/photos/me.jpeg)
 ## About Me
 
 ### Basic Boring Info
