@@ -1,7 +1,6 @@
 # Linda Wu
 
-<img src="/photos/me.jpeg" alt="me" width="25%"
-height="25%" title="me">
+![me](/photos/me.jpeg)
 
 ## About Me
 
@@ -22,8 +21,7 @@ To find out more about me, feel free to check out my [LinkedIn](https://www.link
 **I strive to avoid falling trap to the stereotypical CS Major persona.**
 In my free time, I ~~code~~ do my own nails and powerlift. Attached below is an image of one of my favorite set of nails that I did for myself. Currently, I can bench my body weight, squat over my body weight, and deadlift over twice my body weight. <sub>Unfortunately, with my courseload this quarter, my stats will probably go down. :(</sub>
 
-<img src="/photos/IMG_2513.JPG" alt="nails" width="25%"
-height="25%" title="nails">
+![nails](/photos/IMG_2513.JPG)
 
 ### Quarter Goals
 
