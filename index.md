@@ -25,3 +25,6 @@ I also enjoy trying new food items and grocery shopping in Asian supermarkets. I
 
 ![food](/photos/IMG_2712.jpg)
 
+<img src="/photos/IMG_2712.jpg" alt="food" width="50%"
+height="50%" title="food">
+
